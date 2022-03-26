@@ -1,0 +1,42 @@
+.titulo {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FFC300;
+}
+
+.navbar {
+    background-color: #041562;
+}
+
+.collapse {
+    background-color: #EEEEEE;
+}
+
+.quem-somos {
+    background-color: #11468F;
+    color: #EEEEEE;
+}
+
+.margin {
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.espaco {
+    padding-bottom: 100;
+}
+
+.servicos {
+    background-color: #11468F;
+    color: #EEEEEE;
+}
+
+.redes-sociais {
+    background-color: #11468F;
+    color: #EEEEEE;
+}
+
+.assinatura {
+    color: #FFC300;
+    background-color: #041562;
+    font-family: cursive;
+}
